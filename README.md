@@ -15,7 +15,7 @@ leetcode刷题
 - [389. 找不同](https://leetcode-cn.com/problems/find-the-difference/)
 - [350. 两个数组的交集 II](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii/)
 
-## 滑动窗口4)
+## 滑动窗口
 
 - [239. 滑动窗口最大值](https://leetcode-cn.com/problems/sliding-window-maximum/)
 - [438. 找到字符串中所有字母异位词](https://leetcode-cn.com/problems/find-all-anagrams-in-a-string/)
