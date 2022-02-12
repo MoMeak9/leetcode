@@ -1,5 +1,7 @@
 # leetcode
-leetcode刷题
+前端leetcode刷题，开始卷起来了~~
+
+回头再开个C++专题的
 
 前端Leetcode是比较多的内容，所以将相关题目单独出来分类记录。题目顺序参照[leetcode 分类专题刷刷刷](https://github.com/vortesnail/leetcode)
 
