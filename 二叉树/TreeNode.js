@@ -1,4 +1,5 @@
-export default function TreeNode(val) {
-    this.val = val;
-    this.left = this.right = null;
+export default function TreeNode(val, left, right) {
+    this.val = (val === undefined ? 0 : val)
+    this.left = (left === undefined ? null : left)
+    this.right = (right === undefined ? null : right)
 }
